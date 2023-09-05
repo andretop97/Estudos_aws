@@ -2,10 +2,10 @@
 
 ## Principais serviços de armazenamento em nuvem AWS
 
-- S3
+- [S3](/Armazenamento/S3/README.md)
 - Glacier
 - EFS
-- EBS
+- [EBS](/Armazenamento/EBS/README.md)
 - Snowball
 - Cloudfront
 - Storeage Getway
@@ -32,3 +32,5 @@
     - Flat adress
         - Url
 - Metadados
+
+## Amazon Machine Image

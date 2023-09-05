@@ -66,6 +66,9 @@ Os volumes HDD frios fornecem armazenamento magnético de baixo custo que define
 - Deve estar na mesma zona da instancia EC2.
 - São vinculadas a uma instancia, podendo ser atrelasdas a mais de uma instancia com a configuração multi-attach.
 
+## Snapshot
+
+É possível fazer backup dos dados nos volumes do Amazon EBS para o Amazon S3 criando snapshots point-in-time. Snapshots são backups incrementais, o que significa que somente os blocos no dispositivo que tiverem mudado depois do snapshot mais recente serão salvos. Isso minimiza o tempo necessário para criar o snapshot e economiza em custos de armazenamento ao não duplicar os dados.
 ## Preço 
 
 ###  Nivel Gratuito
