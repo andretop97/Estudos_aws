@@ -23,7 +23,7 @@ access list
 - S3 One Zone-IA
 - S3 Glacier Instant Retrieval
 - S3 Glacier Flexible Retrieval
-- S3 Glacier  Deep Archive
+- S3 Glacier Deep Archive
 - S3 Outposts
 
 ## Versionamento
@@ -34,4 +34,19 @@ Versionamento de arquivos
 ## Life cicle
 
 ## Replicação
+
+## Segurança e controle de acesso
+
+### IAM Polices
+Aplicada a Usuarios ou Grupo de Usuarios
+Estabelecer regaras e permissões para :
+
+- Usuarios
+- Grupos
+- Roles ( uma regra )
+
+### Bucket Polices
+Aplicada diretamente a um Bucket
+ 
+### Access List
 
