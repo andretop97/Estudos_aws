@@ -2,13 +2,13 @@
 
 ## Principais serviços de armazenamento em nuvem AWS
 
-- [S3](/Armazenamento/S3/README.md)
-- Glacier
+- [S3](./S3/README.md)
+- [Glacier](./S3/Glacier/README.md)
 - EFS
-- [EBS](/Armazenamento/EBS/README.md)
+- [EBS](./EBS/README.md)
 - Snowball
 - Cloudfront
-- Storeage Getway
+- [Storeage Getway](./Storage_gateway/README.md)
 - Instance storage
 
 
@@ -34,3 +34,7 @@
 - Metadados
 
 ## Amazon Machine Image
+
+## Fontes
+- [Certificação Amazon AWS Cloud Practitioner (CLF-C01) - Udemy](https://www.udemy.com/course/certificacao-aws-cloud-practitioner/)
+- [Documentação da AWS]()
