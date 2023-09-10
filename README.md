@@ -21,6 +21,18 @@ A AWS foi pioneira nesse mercado, idealizando o que hoje conhecemos como Cloud C
 
 ### Zonas Locais
 
+## Planos
+- Basic Plan
+- Developer Plan
+- Business Plan
+- Interprise Plan
+
+### Basic Plan
+### Developer Plan
+### Business Plan
+### Interprise Plan
+
+## Cost Calculator
 
 ## Modulos
 
